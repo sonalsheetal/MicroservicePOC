@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="61" name="Customer">
+    <ConfigurationVersion minorVersion="0" majorVersion="4"/>
+    <CreatedAt></CreatedAt>
+    <CreatedBy>admin</CreatedBy>
+    <Description></Description>
+    <DisplayName>Customer</DisplayName>
+    <LastModifiedAt></LastModifiedAt>
+    <LastModifiedBy>sonal.sheetal@accenture.com</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+    </Resources>
+    <TargetServers>
+    	<TargetServer>customer-target</TargetServer>
+    </TargetServers>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
